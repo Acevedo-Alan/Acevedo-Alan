@@ -14,7 +14,7 @@ Soy desarrollador con enfoque full-stack, especializado en backend con **Java y 
 - 📍 Santa Fe, Argentina
 - 🎓 En curso: Tecnicatura / Ingeniería en Desarrollo de Software
 - 💼 Abierto a oportunidades laborales y pasantías
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/alan-acevedo) · alan@email.com
+- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/alan-acevedo) · acevedo.j.alan@gmail.com
 
 ---
 
