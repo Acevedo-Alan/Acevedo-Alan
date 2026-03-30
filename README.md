@@ -47,7 +47,7 @@ Soy desarrollador con enfoque full-stack, especializado en backend con **Java y 
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos:
 
 ### RDAM — Registro de Deudores Alimenticios Morosos
 > **Cliente:** Poder Judicial de Santa Fe · **Programa:** Campus 2026
