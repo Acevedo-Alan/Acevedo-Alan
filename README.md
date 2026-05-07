@@ -100,14 +100,6 @@ Aplicación full-stack desarrollada en equipo con flujo de trabajo profesional e
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Acevedo-Alan&show_icons=true&theme=default&hide_border=true&count_private=true&locale=es" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acevedo-Alan&layout=compact&theme=default&hide_border=true&locale=es" />
-</p>
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alan-acevedo">
