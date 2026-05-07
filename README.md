@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Alan Acevedo 👋</h1>
+<h1 align="center">Hola, soy Alan Acevedo </h1>
 
 <p align="center">
   Desarrollador de software full-stack en último año de formación.<br/>
@@ -58,10 +58,10 @@ Soy desarrollador con enfoque full-stack, especializado en backend con **Java y 
 
 Utilizo herramientas de IA de forma **proficiente** como parte activa de mi flujo de trabajo:
 
-- **Generación y revisión de código** — uso de Copilot y Claude para acelerar la escritura de lógica de negocio, detectar errores y refactorizar.
-- **Diseño de arquitecturas** — validación de decisiones de diseño en APIs REST y estructura de base de datos.
-- **Debugging asistido** — análisis de stack traces y errores complejos para reducir tiempos de resolución.
-- **Documentación técnica** — generación y mejora de READMEs, comentarios de código y documentación de endpoints.
+- **Generación y revisión de código**: uso de Copilot y Claude para acelerar la escritura de lógica de negocio, detectar errores y refactorizar.
+- **Diseño de arquitecturas**: validación de decisiones de diseño en APIs REST y estructura de base de datos.
+- **Debugging asistido**: análisis de stack traces y errores complejos para reducir tiempos de resolución.
+- **Documentación técnica**: generación y mejora de READMEs, comentarios de código y documentación de endpoints.
 
 ---
 
