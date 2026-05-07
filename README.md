@@ -54,7 +54,7 @@ Soy desarrollador con enfoque full-stack, especializado en backend con **Java y 
 
 ---
 
-## 🤖 IA aplicada al desarrollo
+## IA aplicada al desarrollo
 
 Utilizo herramientas de IA de forma **proficiente** como parte activa de mi flujo de trabajo:
 
@@ -102,8 +102,8 @@ Aplicación full-stack desarrollada en equipo con flujo de trabajo profesional e
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alan-acevedo">
-    <img src="https://img.shields.io/badge/LinkedIn-Alan_Acevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/acevedo-alan">
+    <img src="https://img.shields.io/badge/LinkedIn-Acevedo_Alan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Acevedo-Alan">
