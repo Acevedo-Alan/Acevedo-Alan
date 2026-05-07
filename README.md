@@ -2,7 +2,7 @@
 
 <p align="center">
   Desarrollador de software full-stack en último año de formación.<br/>
-  Enfocado en construir APIs robustas y aplicaciones web funcionales.
+  Enfocado en construir aplicaciones web funcionales y APIs robustas.
 </p>
 
 ---
