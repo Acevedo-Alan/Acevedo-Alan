@@ -102,7 +102,7 @@ Aplicación full-stack desarrollada en equipo con flujo de trabajo profesional e
 
 <p align="center">
   <a href="https://www.linkedin.com/in/acevedo-alan">
-    <img src="https://img.shields.io/badge/LinkedIn-Acevedo_Alan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Acevedo_Alan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/Acevedo-Alan">
