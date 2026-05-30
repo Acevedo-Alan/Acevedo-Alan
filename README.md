@@ -80,7 +80,7 @@ Plataforma seleccionada entre los **8 finalistas** del programa Campus 2026 para
 
 Aplicación full-stack desarrollada en equipo con flujo de trabajo profesional en Git.
 
-- Construcción del frontend con **HTML, CSS, JavaScript y TypeScript**, conectado a la API mediante `fetch`/`axios`.
+- Construcción del frontend con **HTML5, CSS3, JavaScript y TypeScript**, conectado a la API mediante `fetch`/`axios`.
 - Contenerización con **Docker** para estandarizar el entorno entre los miembros del equipo.
 - Autenticación y autorización de usuarios con **Spring Security**.
 - Gestión de ramas, pull requests y resolución de conflictos en **GitHub**.
