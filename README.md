@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Alan Acevedo </h1>
 
 <p align="center">
-  Desarrollador de software Full-Stack en último año de formación.<br/>
+  Desarrollador de Software Full-Stack en último año de formación.<br/>
   Enfocado en construir aplicaciones web funcionales y APIs robustas.
 </p>
 
