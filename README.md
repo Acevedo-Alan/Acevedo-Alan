@@ -12,9 +12,9 @@
 Soy desarrollador con enfoque full-stack, especializado en backend con **Java y Spring Boot** y desarrollo de interfaces con **JavaScript y TypeScript**. Tengo experiencia construyendo APIs RESTful, modelando bases de datos relacionales y contenerizando aplicaciones con Docker. Incorporo herramientas de **Inteligencia Artificial** en mi flujo de trabajo para acelerar el desarrollo, mejorar la calidad del código y resolver problemas complejos de forma eficiente.
 
 - 📍 Santa Fe, Argentina
-- 🎓 En curso: Ultimo año en la Tecnicatura en Desarrollo de Software
-- 💼 Abierto a oportunidades laborales y pasantías
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/acevedo-alan/) · Acevedo.j.Alan@gmail.com
+- En curso: Ultimo año en la Tecnicatura en Desarrollo de Software
+- Abierto a oportunidades laborales y pasantías
+- Contacto: [LinkedIn](https://www.linkedin.com/in/acevedo-alan/) · Acevedo.j.Alan@gmail.com
 
 ---
 
