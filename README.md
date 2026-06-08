@@ -18,7 +18,7 @@ Soy desarrollador con enfoque full-stack, especializado en backend con **Java y 
 
 ---
 
-## 🛠 Stack Tecnológico
+##  Stack Tecnológico:
 
 **Backend**
 
