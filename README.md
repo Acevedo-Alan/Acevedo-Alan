@@ -16,7 +16,9 @@
 
 ##  About me
 
-I'm a full-stack developer specialized in backend with **Java and Spring Boot**, and interface development with **JavaScript and TypeScript**. I like owning a project end to end — from database design to the last pixel of the UI — and I actively bring **AI tools** into that process to move faster without cutting corners on quality.
+I'm a full-stack developer with a strong backend focus, specializing in Java and Spring Boot, with experience building interfaces using JavaScript and TypeScript. I enjoy owning projects end to end, from database design to the last pixel of the UI, and I use AI tools throughout the process to move faster without compromising on quality.
+
+
 
 - 📍 Santa Fe, Argentina
 - 🎓 Final year of the Software Development degree (Tecnicatura)
