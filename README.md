@@ -1,22 +1,28 @@
-# Hola, soy Alan Acevedo
+<div align="center">
 
-Desarrollador de Software Full-Stack en último año de formación.
-Enfocado en construir aplicaciones web funcionales y APIs robustas.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=F79839&width=520&lines=C%3A%5CUsers%5CAlan%3E+whoami;Alan+Acevedo;Full+Stack+Developer)](https://git.io/typing-svg)
+
+</div>
+
+# Hi, I'm Alan Acevedo
+
+Full-Stack Software Developer in my final year of formal training.
+Focused on building functional web applications and robust APIs.
 
 ---
 
-## Sobre mí
+## About me
 
-Soy desarrollador con enfoque full-stack, especializado en backend con **Java y Spring Boot** y desarrollo de interfaces con **JavaScript y TypeScript**. Tengo experiencia construyendo APIs RESTful, modelando bases de datos relacionales y contenerizando aplicaciones con Docker. Incorporo herramientas de **Inteligencia Artificial** en mi flujo de trabajo para acelerar el desarrollo, mejorar la calidad del código y resolver problemas complejos de forma eficiente.
+I'm a full-stack developer specialized in backend with **Java and Spring Boot**, and interface development with **JavaScript and TypeScript**. I have experience building RESTful APIs, modeling relational databases, and containerizing applications with Docker. I actively incorporate **AI tools** into my workflow to speed up development, improve code quality, and solve complex problems efficiently.
 
 - 📍 Santa Fe, Argentina
-- En curso: Último año en la Tecnicatura en Desarrollo de Software
-- Abierto a oportunidades laborales y pasantías
-- Contacto: [LinkedIn](https://www.linkedin.com/in/acevedo-alan/) · <Acevedo.j.Alan@gmail.com>
+- Currently: Final year of the Software Development degree (Tecnicatura)
+- Open to job opportunities and internships
+- Contact: [LinkedIn](https://www.linkedin.com/in/acevedo-alan/) · <Acevedo.j.Alan@gmail.com>
 
 ---
 
-## Stack Tecnológico
+## Tech Stack
 
 **Backend**
 
@@ -26,63 +32,63 @@ Soy desarrollador con enfoque full-stack, especializado en backend con **Java y 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Bases de Datos**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Herramientas y DevOps**
+**Tools & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## IA aplicada al desarrollo
+## AI applied to development
 
-Utilizo herramientas de IA de forma **proficiente** como parte activa de mi flujo de trabajo:
+I use AI tools **proficiently** as an active part of my workflow:
 
-- **Generación y revisión de código**: uso de múltiples agentes de Copilot y Claude para acelerar la escritura de lógica de negocio, detectar errores y refactorizar.
-- **Diseño de arquitecturas**: validación de decisiones de diseño en APIs REST y estructura de base de datos.
-- **Debugging asistido**: análisis de stack traces y errores complejos para reducir tiempos de resolución.
-- **Documentación técnica**: generación y mejora de READMEs, comentarios de código y documentación de endpoints.
+- **Code generation and review**: using multiple Copilot and Claude agents to speed up business-logic writing, catch bugs, and refactor.
+- **Architecture design**: validating design decisions for REST APIs and database structure.
+- **Assisted debugging**: analyzing stack traces and complex errors to reduce resolution time.
+- **Technical documentation**: generating and improving READMEs, code comments, and endpoint docs.
 
 ---
 
-## Certificaciones
+## Certifications
 
 **Software Development with Claude Code** — DataCamp
-Expedición: agosto 2026 · ID de credencial: `b318eed04cf43bde14c08ee08d6492cb342d0229`
+Issued: August 2026 · Credential ID: `b318eed04cf43bde14c08ee08d6492cb342d0229`
 
 ---
 
-## Proyectos Destacados
+## Featured Projects
 
-### HEXA — Juego multijugador de matching de colores en tiempo real
+### HEXA — Real-time color matching multiplayer game
 
-> Proyecto propio · Full-stack, del diseño al deploy
+> Solo project · Full-stack, from design to deploy
 
-Juego donde los jugadores reciben un color objetivo, salen a fotografiar objetos reales del mundo que lo matcheen, y compiten por precisión de color en tiempo real. Diseñado y desarrollado en solitario, de punta a punta.
+A game where players get a target color, go photograph real-world objects that match it, and compete on color-matching accuracy in real time. Designed and built solo, end to end.
 
-- Sincronización de sala en tiempo real con **Server-Sent Events**, con reconexión automática ante pérdida de señal — elegido en vez de WebSockets por ser un flujo de datos mayormente unidireccional (servidor → jugadores), más liviano para una sesión efímera pensada para jugarse en LAN.
-- Autenticación de sesión sin login tradicional: tokens firmados **HMAC-SHA256** (los jugadores se unen solo con un código de sala) + **rate limiting** sobre el endpoint de captura de fotos para evitar abuso.
-- Diagnostiqué y resolví un fallo silencioso en producción: el backend guardaba fotos con datos corruptos cuando fallaba la subida a Cloudinary, sin reportar error al cliente. El fix usa rollback transaccional para que la operación falle de forma explícita en vez de dejar estado inconsistente en la base.
-- Frontend **PWA** instalable (React + TypeScript + Vite), con generación de imágenes client-side vía **Canvas 2D** para exportar y compartir resultados sin depender de un servicio externo de renderizado.
+- Real-time room sync via **Server-Sent Events**, with automatic reconnection on signal loss — chosen over WebSockets since the data flow is mostly one-directional (server → players), lighter weight for an ephemeral session meant to be played over LAN.
+- Session auth without traditional login: **HMAC-SHA256**-signed tokens (players join with just a room code) + **rate limiting** on the photo-capture endpoint to prevent abuse.
+- Diagnosed and fixed a silent production failure: the backend was saving photos with corrupted data whenever the Cloudinary upload failed, without surfacing an error to the client. The fix uses transactional rollback so the operation fails explicitly instead of leaving inconsistent state in the database.
+- Installable **PWA** frontend (React + TypeScript + Vite), with client-side image generation via **Canvas 2D** to export and share results without relying on an external rendering service.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-🔗 [Repositorio](https://github.com/Acevedo-Alan/hex)
+🔗 [Repository](https://github.com/Acevedo-Alan/hex)
 
 ---
 
-### RDAM — Registro de Deudores Alimenticios Morosos
+### RDAM — Delinquent Support Debtors Registry
 
-> **Cliente:** Poder Judicial de Santa Fe · **Programa:** Campus 2026
+> **Client:** Judicial Branch of Santa Fe · **Program:** Campus 2026
 
-Plataforma seleccionada entre los **8 finalistas** del programa Campus 2026 para la fase de evaluación final.
+Platform selected among the **8 finalists** of the Campus 2026 program for the final evaluation stage.
 
-- Diseño e implementación de una **API RESTful** con Java y Spring Boot bajo arquitectura en capas (Controller → Service → Repository), para gestión de datos sensibles del Poder Judicial de Santa Fe.
-- Autenticación de doble factor (**JWT + OTP**) en vez de sesiones tradicionales, dado que la plataforma maneja información de deudores alimenticios y requería una capa extra de verificación de identidad.
-- Modelado y gestión de base de datos relacional con **PostgreSQL**, garantizando integridad referencial en los registros de deudores.
-- Validación end-to-end de los endpoints con **Postman** antes de cada entrega, para sostener el flujo de datos cliente-servidor sin regresiones.
+- Designed and implemented a **RESTful API** with Java and Spring Boot under a layered architecture (Controller → Service → Repository), for managing sensitive Judicial Branch data.
+- Two-factor authentication (**JWT + OTP**) instead of traditional sessions, since the platform handles delinquent-debtor information and required an extra layer of identity verification.
+- Modeled and managed a relational database with **PostgreSQL**, ensuring referential integrity across debtor records.
+- End-to-end endpoint validation with **Postman** before every release, to keep the client-server data flow regression-free.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -90,14 +96,14 @@ Plataforma seleccionada entre los **8 finalistas** del programa Campus 2026 para
 
 ### OpenLodge
 
-> **Proyecto académico colaborativo**
+> **Collaborative academic project**
 
-Aplicación full-stack desarrollada en equipo con flujo de trabajo profesional en Git.
+Full-stack application built as a team with a professional Git workflow.
 
-- Construcción del frontend con **HTML5, CSS3, JavaScript y TypeScript**, conectado a la API mediante `fetch`/`axios`.
-- Contenerización con **Docker** para estandarizar el entorno entre los miembros del equipo.
-- Autenticación y autorización de usuarios con **Spring Security**.
-- Gestión de ramas, pull requests y resolución de conflictos en **GitHub**.
+- Built the frontend with **HTML5, CSS3, JavaScript and TypeScript**, connected to the API via `fetch`/`axios`.
+- Containerized with **Docker** to standardize the environment across the team.
+- User authentication and authorization with **Spring Security**.
+- Branch management, pull requests, and conflict resolution on **GitHub**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
