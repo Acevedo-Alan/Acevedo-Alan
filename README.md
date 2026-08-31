@@ -6,9 +6,9 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
-### 🔗 Check out my [portfolio](https://alan-acevedo.vercel.app/) →
+###  Check out my [portfolio](https://alan-acevedo.vercel.app/) →
 
 </div>
 
@@ -49,23 +49,23 @@ I'm a full-stack developer specialized in backend with **Java and Spring Boot**,
 
 I use AI tools **proficiently** as an active part of my workflow:
 
-- **Code generation and review** — using multiple Copilot and Claude agents to speed up business-logic writing, catch bugs, and refactor.
-- **Architecture design** — validating design decisions for REST APIs and database structure.
-- **Assisted debugging** — analyzing stack traces and complex errors to reduce resolution time.
-- **Technical documentation** — generating and improving READMEs, code comments, and endpoint docs.
+- **Code generation and review**: using multiple Copilot and Claude agents to speed up business-logic writing, catch bugs, and refactor.
+- **Architecture design**: validating design decisions for REST APIs and database structure.
+- **Assisted debugging**: analyzing stack traces and complex errors to reduce resolution time.
+- **Technical documentation**: generating and improving READMEs, code comments, and endpoint docs.
 
 ---
 
 ##  Certifications
 
-**Software Development with Claude Code** — DataCamp
+**Software Development with Claude Code** -- DataCamp
 Issued: August 2026 · Credential ID: `b318eed04cf43bde14c08ee08d6492cb342d0229`
 
 ---
 
 ##  Featured Projects
 
-### HEXA — Real-time color matching multiplayer game
+### HEXA: Real-time color matching multiplayer game
 
 > Solo project · Full-stack, from design to deploy
 
@@ -82,7 +82,7 @@ A game where players get a target color, go photograph real-world objects that m
 
 ---
 
-### RDAM — Delinquent Support Debtors Registry
+### RDAM:  Delinquent Support Debtors Registry
 
 > **Client:** Judicial Branch of Santa Fe · **Program:** Campus 2026
 
